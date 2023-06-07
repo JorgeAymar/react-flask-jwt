@@ -9,7 +9,7 @@ verify_ssl = true
 flask = "*"
 sqlalchemy = "==1.4.46"
 flask-sqlalchemy = "*"
-flask-migrate = "*"
+flask-migrate = "==3.1.0"
 flask-swagger = "*"
 psycopg2-binary = "*"
 python-dotenv = "*"
@@ -24,6 +24,7 @@ flask_migrate = "*"
 flask_swagger = "*"
 flask_cors = "*"
 werkzeug = "*"
+flask-script = "*"
 
 [requires]
 python_version = "3.10"
